@@ -1,0 +1,118 @@
+body {
+    font-family: sans-serif;
+}
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(olive,forestgreen);
+}
+header{
+    background-color: forestgreen;
+    margin: 0px;
+    padding: 5px;
+}
+h1{
+    text-align: center;
+    font-family: Lucida Sans;
+}
+nav a{
+border: 1px solid limegreen;
+background-color: limegreen;
+color: aliceblue;
+padding: 5px;
+}
+nav a:hover{
+    background-color: blueviolet;
+    color: pink;
+    transition: 2s linear;
+}
+nav a:focus{
+    font-size: 24px;
+    background-color: aqua;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+}
+h2{
+    text-align: center;
+}
+.sh{
+    text-align: center;
+    color: aqua;
+}
+.g{
+    width: 300px;
+    height: 400px;
+    background-color: orange;
+    margin: 30px;
+}
+.g a{
+    border: 2px double orangered;
+    background-color: azure;
+    font-size: 25px;
+    text-decoration: none;
+    margin-left: 120px;
+}
+.g a:hover{
+    background-color: darkcyan;
+    color: chartreuse;
+}
+.g p{
+    margin: 30px;
+}
+.gel{
+    text-align: center;
+    color: aliceblue;
+
+}
+.i{
+    width: 300px;
+    height: 400px;
+    background-color: hotpink;
+    margin: 30px;
+}
+.i a{
+    border: 3px double lawngreen;
+    background-color: coral;
+    font-size: 25px;
+    text-decoration: none;
+    margin-left: 115px;
+}
+.i a:hover{
+    background-color: aquamarine;
+    color: darkolivegreen;
+}
+.i p{
+    margin: 25px;
+}
+footer{
+    background-color: seagreen;
+    padding: 5px;
+    height: 170px;
+    width: 1280px;
+}
+.pp{
+    font-size: 20px;
+    color: lime;
+}
+.bb{
+    position: relative;
+    top: -110px;
+    left: 400px;
+}
+.in{
+    position: relative;
+    left: 350px;
+    top: -90px;
+}
+.tv{
+    position: relative;
+    left: 380px;
+    top: -90px;
+}
+
+
+
+
+
