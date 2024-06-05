@@ -112,7 +112,7 @@ article p{
 }
 .new{
     width: 1280px;
-    height: 700px;
+    height: 500px;
     background-color: darkgreen;
     display: flex;
     flex-wrap: wrap;
